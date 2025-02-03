@@ -43,8 +43,8 @@ energy = ps.einstein_mass_energy(2)
 print(energy)  # Output: 1.8e+17
 ```
 
-##📚 Available Functions
-- **🔹 Electronics**
+## 📚 Available Functions
+ - **🔹 Electronics**
 ```
 ohms_law(type, V=None, I=None, R=None): Calculate Ohm’s Law values.
 ```
@@ -58,7 +58,7 @@ series_resistor(*resistances): Sum of resistors in series.
 parallel_resistor(*resistances): Total resistance in parallel circuits.
 ```
 
-- **🔹 Scientific **
+ - **🔹 Scientific **
 ```
 speed(distance, time): Calculate speed.
 ```
@@ -71,7 +71,7 @@ gravitational_force(G, m1, m2, r): Compute gravitational force.
 ```
 einstein_mass_energy(mass): Compute energy from mass.
 ```
-- **🔹 Conversions**
+ - **🔹 Conversions**
 ```
 freq_converter(value, from_freq, to_freq): Convert between Hz, kHz, MHz, and GHz.
 ```
@@ -82,7 +82,7 @@ metric_converter(value, from_unit, to_unit): Convert metric units (nano, micro, 
 cmyk_to_rgb(c, m, y, k): Convert CMYK color values to RGB.
 ```
 
-##🛠️ Development & Contributions
+## 🛠️ Development & Contributions
 If you want to improve this package:
 Fork the repository on GitHub.
 Clone the repository:
@@ -94,11 +94,11 @@ cd scientific_calculator
 ```
 
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-💡 Created by F-Code-101:
-📧 Contact: techwbro@gmail.com
-🎥 https://www.youtube.com/@F-Code101
+- 💡 Created by F-Code-101:
+- 📧 Contact: techwbro@gmail.com
+- 🎥 https://www.youtube.com/@F-Code101
 
 ---
