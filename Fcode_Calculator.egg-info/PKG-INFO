@@ -1,3 +1,25 @@
+Metadata-Version: 2.2
+Name: Fcode_Calculator
+Version: 1.0.0
+Summary: A Python package for scientific and electronic calculations
+Home-page: https://github.com/fcode101/pyscience.git
+Author: F-Code 101
+Author-email: techwbro@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
 # 📟 Scientific & Electronic Calculator
 
 A Python package for performing **scientific and electronic calculations**, including Ohm's Law, metric conversions, frequency conversions, physics formulas, and more.
