@@ -22,7 +22,12 @@ pip install Fcode_Calculator
 **Import the package and start using the functions:**
 
 ```
-import Fcode_Calculator as ps
+from Fcode_Calculator import Electronics as ps
+                or
+from Fcode_Calculator import Scientific 
+                or
+from Fcode_Calculator import Conversion 
+
 ```
 
 ##  Ohm's Law Example

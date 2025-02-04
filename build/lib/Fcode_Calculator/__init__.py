@@ -1,6 +1,6 @@
-from Electronics import *
-from Scientific import *
-from Conversions import *
+from .Electronics import *
+from .Scientific import *
+from .Conversions import *
 
 
 
