@@ -10,7 +10,7 @@ setup(
     description="A Python package for scientific and electronic calculations",
     long_description=open("README.md" , encoding='utf-8').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/fcode101/pyscience.git",
+    url="https://github.com/fcode101/Fcode-Calculator.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
